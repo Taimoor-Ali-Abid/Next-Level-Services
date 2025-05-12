@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "822058218454",
+    "project_id": "nextleveltech-576dd",
+    "storage_bucket": "nextleveltech-576dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822058218454:android:9f41b208af70a116c9aa77",
+        "android_client_info": {
+          "package_name": "com.nextleveltech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822058218454-0jcc6adhp7aqrc11t3skce7tclnfmo4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nextleveltech",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "822058218454-lqus7bvudtoenuo63rb56qcsktt87veo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC34vTIUybEuX02rYI5uf4m6z_meuSe68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822058218454-lqus7bvudtoenuo63rb56qcsktt87veo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
